@@ -3,6 +3,39 @@
 
 
 
+<h1 align="center">About me </h1>
+
+
+
+```javascript
+  import Earth from 'Cosmos';
+  import Coder from '2021';
+  
+  let bio = {
+  "- 🔭 I’m currently working on": "Studying at Indian Institute of Technology, Varanasi" ,
+  "- 👶 Born on": "22 September 2001",
+  "- 🌱 I’m currently learning":  "Service Meshes, Web Assembly, PWA, Kubernetes, Microservices Architecture",
+  "- 💬 Ask me about": "Cloud Infrastructure, Javascript, NextJS, ReactJS, HTML, CSS", 
+  }
+  const Nithish = new Coder(bio);
+  
+  while(Nithish.alive() || Earth.alive())
+   {
+    Nithish.wakeUp();
+    Nithish.startCoding();
+    Nithish.findBugs();
+    Nithish.searchAnswersFrom('https://stackoverflow.com')
+      .then(res => Nithish.codeEditor.paste(res.data))
+      .catch(err => {
+        setTimeout(Nithish.think(), Infinity);
+        Nithish.solveBug();
+        })
+    Nithish.sleep();
+   }
+```
+
+
+
 ### 🔨 Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -20,8 +53,7 @@
 
 ### 📊 Github Stats
   
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-[![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-NithishKarthik&count_private=true&show_icons=true&theme=merko)](https://github.com/sudo-NithishKarthik/github-readme-stats)
+![Stats Overview](https://raw.githubusercontent.com/sudo-NithishKarthik/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/sudo-NithishKarthik/github-stats-transparent/output/generated/languages.svg)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
