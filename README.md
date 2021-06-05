@@ -19,7 +19,7 @@
   }
   const Nithish = new Coder(bio);
   
-  while(Nithish.alive() || Earth.alive())
+  while(Nithish.alive() || !Earth.destroyed())
    {
     Nithish.wakeUp();
     Nithish.startCoding();
