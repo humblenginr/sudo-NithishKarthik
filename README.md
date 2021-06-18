@@ -14,7 +14,7 @@
   let bio = {
   "- 🔭 I’m currently working on": "Studying at Indian Institute of Technology, Varanasi" ,
   "- 👶 Born on": "22 September 2001",
-  "- 🌱 I’m currently learning":  "Service Meshes, Web Assembly, PWA, Kubernetes, Microservices Architecture",
+  "- 🌱 I’m currently learning":  "Service Meshes, Web Assembly, PWA, Kubernetes, Microservices Architecture, Functional Programming, Lua",
   "- 💬 Ask me about": "Cloud Infrastructure, Javascript, NextJS, ReactJS, HTML, CSS, NodeJS, MERN Stack", 
   }
   const Nithish = new Coder(bio);
