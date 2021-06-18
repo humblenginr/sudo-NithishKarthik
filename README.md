@@ -30,9 +30,16 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://www.vim.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" height='42px'/> </a>
-<a href="https://webassembly.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="vim" height='42px'/> </a>
-<br>
+&nbsp;&nbsp;
+<a href="https://www.vim.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" height='38px'/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://webassembly.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="vim" height='38px'/> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://nextjs.org/" target="_blank"> <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" alt="Next JS" height='38px'/> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3d4DOs97--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6jhpy2zmf4s57a76vhoq.png" alt="FP" height='38px'/> 
+
+   <br>
 
 
 ### 📊 Github Stats
