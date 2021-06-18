@@ -8,30 +8,14 @@
 
 
 ```javascript
-  import Earth from 'Cosmos';
-  import Coder from '2021';
   
   let bio = {
   "- 🔭 I’m currently working on": "Studying at Indian Institute of Technology, Varanasi" ,
   "- 👶 Born on": "22 September 2001",
-  "- 🌱 I’m currently learning":  "Service Meshes, Web Assembly, PWA, Kubernetes, Microservices Architecture, Functional Programming, Lua",
+  "- 🌱 I’m currently learning":  " Service Meshes, Web Assembly, PWA, Kubernetes,
+                                    Microservices Architecture, Functional Programming, Lua",
   "- 💬 Ask me about": "Cloud Infrastructure, Javascript, NextJS, ReactJS, HTML, CSS, NodeJS, MERN Stack", 
   }
-  const Nithish = new Coder(bio);
-  
-  while(Nithish.alive() && !Earth.destroyed())
-   {
-    Nithish.wakeUp();
-    Nithish.startCoding();
-    Nithish.findBugs();
-    Nithish.searchAnswersFrom('https://stackoverflow.com')
-      .then(res => Nithish.codeEditor.paste(res.data))
-      .catch(err => {
-        setTimeout(Nithish.think(), Infinity);
-        Nithish.solveBug();
-        })
-    Nithish.sleep();
-   }
 ```
 
 
