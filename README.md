@@ -38,6 +38,10 @@
  <a href="https://nextjs.org/" target="_blank"> <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" alt="Next JS" height='38px'/> 
 &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3d4DOs97--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6jhpy2zmf4s57a76vhoq.png" alt="FP" height='38px'/> 
+   &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" alt="Gatsby" height='38px'/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQl" height='38px'/>
 
    <br>
 
