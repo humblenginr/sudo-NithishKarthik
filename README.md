@@ -33,7 +33,6 @@ Nithish.currentlyLearning()
 
 // Service Mesh Engineering, Cloud Native infrastructure, Reactive programming with Rxjs, Web Assembly, PWA...
 
-  }
 ```
 
 
