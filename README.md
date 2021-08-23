@@ -8,13 +8,31 @@
 
 
 ```javascript
+import Coder from "2021"
   
-  let bio = {
-  "- 🔭 I’m currently working on": "Studying at Indian Institute of Technology, Varanasi" ,
-  "- 👶 Born on": "22 September 2001",
-  "- 🌱 I’m currently learning":  " Service Meshes, Web Assembly, PWA, Kubernetes,
-                                    Microservices Architecture, Functional Programming, Lua",
-  "- 💬 Ask me about": "Cloud Infrastructure, Javascript, NextJS, ReactJS, HTML, CSS, NodeJS, MERN Stack", 
+let Nithish = new Coder({
+  Name: "Nithish Karthik",
+  BornOn: "22 september 2001",
+  Education: "Sophomore student at IIT BHU Varanasi",
+  From: "India"
+})
+
+Nithish.callsHimself()
+
+// A Full stack web developer
+
+Nithish.canCodeIn()
+
+// Javascript, Golang, Typescript, C, C++, Python
+
+Nithish.hasExperienceWith()
+
+// ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL
+
+Nithish.currentlyLearning()
+
+// Service Mesh Engineering, Cloud Native infrastructure, Reactive programming with Rxjs, Web Assembly, PWA...
+
   }
 ```
 
