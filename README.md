@@ -25,7 +25,7 @@ Nithish.canCodeIn()
 
 // Javascript, Golang, Typescript, C, C++, Python
 
-Nithish.hasExperienceWith()
+Nithish.hasExperienceIn()
 
 // ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL
 
