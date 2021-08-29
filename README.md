@@ -27,7 +27,7 @@ Nithish.canCodeIn()
 
 Nithish.hasExperienceIn()
 
-// ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL
+// ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL, Relay
 
 Nithish.currentlyLearning()
 
