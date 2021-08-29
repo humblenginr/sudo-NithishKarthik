@@ -19,7 +19,7 @@ let Nithish = new Coder({
 
 Nithish.callsHimself()
 
-// A Full stack web developer
+// A Full Stack Developer
 
 Nithish.canCodeIn()
 
