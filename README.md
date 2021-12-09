@@ -27,11 +27,11 @@ Nithish.canCodeIn()
 
 Nithish.hasExperienceIn()
 
-// ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL, Relay
+// ELM, ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL, Relay, PWA
 
-Nithish.currentlyLearning()
+Nithish.interestedIn()
 
-// Service Mesh Engineering, Cloud Native infrastructure, Reactive programming with Rxjs, Web Assembly, PWA...
+// Service Mesh Engineering, Cloud Native infrastructure, Web Assembly, Web3 ...
 
 ```
 
