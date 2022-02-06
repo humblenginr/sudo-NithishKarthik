@@ -8,7 +8,7 @@
 
 
 ```javascript
-import Coder from "2021"
+import Coder from "2022"
   
 let Nithish = new Coder({
   Name: "Nithish Karthik",
@@ -17,21 +17,14 @@ let Nithish = new Coder({
   From: "India"
 })
 
-Nithish.callsHimself()
+Nithish.canSpeakIn()
 
-// A Full Stack Developer
+// Javascript, Golang, Typescript, C, C++, Python, Elm
 
-Nithish.canCodeIn()
+Nithish.currentlyWorkingOn()
 
-// Javascript, Golang, Typescript, C, C++, Python
+// Meshery and Cloud Native Technologies
 
-Nithish.hasExperienceIn()
-
-// ELM, ReactJS, NextJS, Gatsby, Webpack, Babel, Redux, Rxjs, NodeJS, AWS Services, GraphQL, Relay, PWA
-
-Nithish.interestedIn()
-
-// Service Mesh Engineering, Cloud Native infrastructure, Web Assembly, Web3 ...
 
 ```
 
